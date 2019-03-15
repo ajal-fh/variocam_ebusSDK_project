@@ -1,0 +1,3 @@
+/home/messnix/Documents/variocam_ebusSDK_project/build/debug/CMakeFiles/edit_cache.dir
+/home/messnix/Documents/variocam_ebusSDK_project/build/debug/CMakeFiles/rebuild_cache.dir
+/home/messnix/Documents/variocam_ebusSDK_project/build/debug/CMakeFiles/vario_cam_ebus.dir
